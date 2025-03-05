@@ -3,5 +3,5 @@ function daysOfAYear(year){
 	   (year % 400 == 0))  {
 		return 366;
 	} 
-	retun 365;
+	return 365;
 }
